@@ -54,8 +54,8 @@ This project was developed as part of **academic coursework** to implement real-
 ## 📸 Screenshots
 
 - Admin Login ! (screenshot/Login.png)  
-- Dashboard ![ (screenshot/Dashboard.png)  
-- Add Subjects ![(screenshot/Subjects.png)  
+- Dashboard ! (screenshot/Dashboard.png)  
+- Add Subjects ! (screenshot/Subjects.png)  
 - Register Students !(screenshot/Register-Students.png)
 
 ---
