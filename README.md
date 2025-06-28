@@ -8,70 +8,81 @@ This project was developed as part of **academic coursework** to implement real-
 
 ## 📌 Project Overview
 
-- **Project Title:** Student Record Management System  
-- **Purpose:** Academic Project  
-- **Development Type:** Web application developed during academic learning  
+- Project Title: Student Record Management System  
+- Purpose: Academic Project  
+- Development Type: Web application developed during academic learning  
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript, jQuery, AJAX  
-- **Backend:** PHP   
-- **Database:** MySQL
-- **Platform:** XAMPP   
-- **Supported Browsers:** Chrome, Firefox, Opera
+- Frontend: HTML, CSS, JavaScript, jQuery, AJAX  
+- Backend: PHP  
+- Database: MySQL  
+- Platform: XAMPP  
+- Supported Browsers: Chrome, Firefox, Opera  
 
 ---
 
 ## 👨‍💼 Admin Module Features
 
-- **Secure Admin Login**
-- **Dashboard:** View total Courses, Subjects, Students, Countries, States, Cities
-- **Course Management:** Add, edit, delete courses
-- **Subject Management:** Manage subjects per course
-- **Student Registration:** Admin can add student records
-- **View Students:** Edit/delete student details
-- **Session Management:** Update academic sessions
-- **Admin Profile & Password Management**
-- **Logout**
+- Secure Admin Login  
+- Dashboard: View total Courses, Subjects, Students, Countries, States, Cities  
+- Course Management: Add, edit, delete courses  
+- Subject Management: Manage subjects per course  
+- Student Registration: Admin can add student records  
+- View Students: Edit/delete student details  
+- Session Management: Update academic sessions  
+- Admin Profile & Password Management  
+- Logout  
 
 ---
 
 ## 🗄️ Database Tables Used
 
-- `cities`  
-- `countries`  
-- `registration`  
-- `session`  
-- `states`  
-- `subject`  
-- `tbl_course`  
-- `tbl_login`
+- cities  
+- countries  
+- registration  
+- session  
+- states  
+- subject  
+- tbl_course  
+- tbl_login  
 
 ---
 
+## 📸 Screenshots
 
+- Admin Dashboard  
+  ![Admin Dashboard](screenshot/Dashboard.png)
+
+- Login Page  
+  ![Login](screenshot/Login.png)
+
+- Register Students  
+  ![Register Students](screenshot/Register-Students.png)
+
+- Subjects Management  
+  ![Subjects](screenshot/Subjects.png)
+
+---
 
 ## 🧪 How to Run the Project
 
 1. Download and unzip the project files  
-2. Copy the folder `studentrecordms` into your server's root directory:
-   - **XAMPP:** `htdocs`
-   - **WAMP:** `www`
-   - **LAMP:** `var/www/html`
-3. Open [phpMyAdmin](http://localhost/phpmyadmin)
-4. Create a new database named: `studentrecorddb`
-5. Import the file: `studentrecorddb.sql` from the SQL folder
-6. Open your browser and run:  
-   ➤ [http://localhost/studentrecordms](http://localhost/studentrecordms)
+2. Copy the folder `studentrecordms` into your server's root directory:  
+   - XAMPP: `htdocs`   
+3. Open phpMyAdmin: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)  
+4. Create a new database named `studentrecorddb`  
+5. Import the file `studentrecorddb.sql` from the SQL folder  
+6. Run the app: [http://localhost/studentrecordms](http://localhost/studentrecordms)
 
 ---
 
 ## 🔐 Admin Credentials
 
-- **Username:** admin  
-- **Password:** Test@12345
+- Username: `admin`  
+- Password: `Test@12345`
 
 ---
 
@@ -83,4 +94,4 @@ This project was developed for educational use during academic coursework. It de
 
 ## 👩‍💻 Contributor
 
-- **Anushka Salve** 
+- Anushka Salve
